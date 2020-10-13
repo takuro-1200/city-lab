@@ -52,7 +52,7 @@ body {
 /* top */
 .top {
   padding-top: 80px;
-  background: url(https://takuro-1200.github.io/city-lab/image/header-logo.png);
+  background-image: url(https://takuro-1200.github.io/city-lab/image/top.png);
   height: 670px;
 }
 
